@@ -1,4 +1,4 @@
-### Hi there 👋, you fould me!
+### Hi there 👋, you found me!
 
 [![r1cebank's github stats](https://github-readme-stats.vercel.app/api?username=r1cebank&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 

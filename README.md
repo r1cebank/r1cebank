@@ -17,3 +17,10 @@ I am Siyuan Gao, I am a Software Engineer located in Vancouver, BC. I enjoy all 
   - **travel**
   - **food**
   - **Node.js**
+  
+嗨！
+我是一个居住在温哥华的程序员，很高兴认识你。
+
+我很喜欢各种和电脑和程序有关的事情，如果你也有兴趣可以随时联系我！
+
+最近我沉迷在修复世嘉的街机，我喜欢游戏也对游戏制作很有兴趣！

@@ -12,10 +12,14 @@ I am Siyuan Gao, I am a Software Engineer located in Vancouver, BC. I enjoy all 
   - **rust**
 - 🤔 I’m looking for help with
   - **rust**
-  - **stylegan**
+  - **FPGA**
+  - **Verilog**
 - 💬 Ask me about
   - **travel**
   - **food**
+  - **JavaScript**
+  - **TypeScript**
+  - **K8s**
   - **Node.js**
   
 ## 关于我

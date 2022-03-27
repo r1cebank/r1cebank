@@ -6,21 +6,21 @@ I am Siyuan Gao, I am a Software Engineer located in Vancouver, BC. I enjoy all 
 
 - 🔭 I’m currently working on
   - **bots**
-  - **ML**
+  - **hdl**
   - **emulators**
 - 🌱 I’m currently learning
   - **rust**
 - 🤔 I’m looking for help with
   - **rust**
-  - **FPGA**
-  - **Verilog**
+  - **fpga**
+  - **verilog**
 - 💬 Ask me about
   - **travel**
   - **food**
-  - **JavaScript**
-  - **TypeScript**
-  - **K8s**
-  - **Node.js**
+  - **javascript**
+  - **typescript**
+  - **k8s**
+  - **node.js**
   
 ## 关于我
 

@@ -1,6 +1,6 @@
 ### Hi there 👋, you found me!
 
-I am Siyuan Gao, I am a Software Engineer located in Vancouver, BC. I enjoy all the things related to computing, recently I been learning about rust and machine learning. Feel free to browse my repos and hope they will help you in some way.
+I am Siyuan Gao, I am a Software Engineer located in Yokohama, Japan. I enjoy all the things related to computing, recently I been learning about rust and machine learning. Feel free to browse my repos and hope they will help you in some way.
 
 [![r1cebank's github stats](https://github-readme-stats.vercel.app/api?username=r1cebank&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,7 +24,7 @@ I am Siyuan Gao, I am a Software Engineer located in Vancouver, BC. I enjoy all 
   
 ## 关于我
 
-* 米炭(r1cebank)，一个被程序耽误的厨子，梦想是可以开一个自己的小餐馆
+* 卡利米库猫(r1cebank)，一个被程序耽误的厨子，梦想是可以开一个自己的小餐馆
 * 虽然大半辈子都在国外生活，但是很想找一天回国发展
 * 虽然是计算机图形与视觉毕业，但是每天的工作却和游戏没有任何关系
 * 虽然在AAA游戏公司工作过，却从来没有碰过游戏开发🤣

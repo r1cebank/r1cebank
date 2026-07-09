@@ -1,41 +1,255 @@
-### Hi there 👋, you found me!
+# 👋 `booting r1cebank...`
 
-I am Siyuan Gao, I am a Software Engineer located in Yokohama, Japan. I enjoy all the things related to computing, recently I been learning about rust and machine learning. Feel free to browse my repos and hope they will help you in some way.
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   r1cebankOS v1.0.0                                          ║
+║   Developer Workstation                                      ║
+║                                                              ║
+║   Booting from /home/siyuan                                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 
-[![r1cebank's github stats](https://github-readme-stats.vercel.app/api?username=r1cebank&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[ OK ] Loading profile: Siyuan Gao
+[ OK ] Location detected: Yokohama, Japan 🇯🇵
+[ OK ] Mounting /projects
+[ OK ] Initializing Rust toolchain
+[ OK ] Starting GPU pipeline
+[ OK ] Loading AI agents
+[ OK ] Syncing Miku module 💙
+[ OK ] Brewing coffee
+[ OK ] Opening too many side quests
 
-- 🔭 I’m currently working on
-  - **bots**
-  - **hdl**
-  - **emulators**
-- 🌱 I’m currently learning
-  - **rust**
-- 🤔 I’m looking for help with
-  - **rust**
-  - **fpga**
-  - **verilog**
-- 💬 Ask me about
-  - **travel**
-  - **food**
-  - **javascript**
-  - **typescript**
-  - **k8s**
-  - **node.js**
-  
-## 关于我
+Welcome, visitor.
+```
 
-* 卡利米库猫(r1cebank)，一个被程序耽误的厨子，梦想是可以开一个自己的小餐馆
-* 虽然大半辈子都在国外生活，但是很想找一天回国发展
-* 虽然是计算机图形与视觉毕业，但是每天的工作却和游戏没有任何关系
-* 虽然在AAA游戏公司工作过，却从来没有碰过游戏开发🤣
-* 喜欢把每年，每月，每周，每天的计划的很清楚，每天的日程精确到分
+```text
+$ whoami
 
-## 我的经验
-大学毕业之后就从美国搬到加拿大的我，浪费了一大部分时间重新建立在温哥华的人脉，在起步公司工作过也在中型公司工作过。在2020之前最喜欢用的语言是Javascript，主要做Node.js 开发。自己还有的时候去Node.js的开源项目贡献代码（虽然只有两次）。
+Siyuan Gao
+Software Engineer
+Graphics / AI / Systems tinkerer
+Currently based in Yokohama, Japan 🇯🇵
+```
 
-2019开始在AAA游戏公司工作，但是却不是游戏开发岗（我应该庆幸吗🤔），平时闲的时候会写一些自己平时用的工具。几乎自己电脑上用的很多小工具都是自己写的。
+---
 
-## 我喜欢什么呢？
-特别喜欢做饭，自己最擅长的就是西餐，日料，最近还在学习中餐 （大学做过兼职厨子），最近因为减肥几乎自己不做任何美食了。（水煮一切）游戏爱好者，拥有从NES-PS5所有主流主机，掌机。家里的游戏卡，游戏CD一大堆，但是很多时候都是在玩模拟器。😂 喜欢看书，最近刚完成2021年读完12本书的计划。特别喜欢弹钢琴（虽然自己弹得很烂），曾经因为梦到自己的钢琴被卖掉吓醒过。
+## `/projects`
 
-我还是初音未来（初音ミク） 的铁粉，如果你也是葱葱人，我们一定会是朋友。
+```text
+WMMD
+└─ Modern MikuMikuDance renderer powered by Rust + wgpu.
+
+WECK
+└─ Windows Engineering Creation Kit.
+   Clean bootstrap tooling for Windows LTSC.
+
+AI Developer Tools
+└─ LLM-powered automation, agents, and workflow experiments.
+
+Rendering & Physics
+└─ Real-time rendering, GPU programming, cloth simulation,
+   animation systems, and other spicy frame-time creatures.
+
+Pet Projects
+└─ Whatever caught my attention this week.
+```
+
+---
+
+## `/learning`
+
+```text
++ Rust
++ GPU Programming / wgpu
++ Computer Graphics
++ Machine Learning
++ FPGA / Verilog
++ Embedded Systems
++ Game Engine Architecture
+```
+
+---
+
+## `/interests`
+
+```text
+Computer Graphics
+Artificial Intelligence
+Emulation
+Retro Computing
+Photography
+Cooking
+Travel
+Piano
+Vocaloid
+Game Development
+```
+
+---
+
+## `/runtime/philosophy`
+
+```cpp
+while (alive) {
+    learn();
+    build();
+    share();
+}
+```
+
+I enjoy building software that teaches me something new.
+
+Sometimes it is a rendering engine.  
+Sometimes it is an AI agent.  
+Sometimes it is a tiny tool that saves five minutes every day.
+
+Tiny tools have a habit of becoming strange little kingdoms.
+
+---
+
+## `/dreams`
+
+```text
+[ ] Build an open graphics ecosystem
+[ ] Start an indie game studio
+[ ] Publish tools other developers enjoy using
+[ ] Open a small restaurant someday
+```
+
+---
+
+## `/workstation/status`
+
+```text
+r1cebankOS Workstation Telemetry
+──────────────────────────────────────────────────────────────
+
+CPU  | Systems Thinking
+     | ████████████████████░░░░  82%
+     | Compiling plans, tools, and unreasonable ideas.
+
+GPU  | Graphics Pipeline
+     | █████████████████████░░░  88%
+     | Rendering WMMD, shaders, physics, and frame-time gremlins.
+
+AI   | Agent Runtime
+     | ████████████████░░░░░░░░  67%
+     | Prototyping LLM tools, automation flows, and tiny assistants.
+
+IO   | Side Project Bandwidth
+     | ███████████████████████░  96%
+     | Too many mounted volumes. System claims this is normal.
+
+RAM  | Context Window
+     | ██████████████████░░░░░░  74%
+     | Holding Rust, MMD, food ideas, and travel plans.
+
+NET  | Community Sync
+     | ████████████░░░░░░░░░░░░  52%
+     | Open to collaboration, bug reports, strange ideas, and Miku talk.
+
+PWR  | Coffee
+     | ████████████████████████  100%
+
+AUX  | Miku Energy
+     | ∞
+```
+
+---
+
+## `/workstation/mounted`
+
+```text
+/dev/projects
+├─ wmmd                → graphics runtime / MMD renderer
+├─ weck                → Windows Engineering Creation Kit
+├─ ai-lab              → agents, automation, LLM experiments
+├─ render-lab          → shaders, physics, GPU experiments
+├─ game-studio         → future indie game prototypes
+└─ kitchen             → food experiments, mostly low-carb for now
+```
+
+---
+
+## `/workstation/processes`
+
+```text
+PID     PROCESS                         STATUS
+0001    learn_rust                      running
+0002    build_wgpu_renderer             running
+0003    debug_physics_engine            running
+0004    prototype_ai_tools              running
+0005    collect_miku_merch              unstoppable
+0006    plan_indie_game_studio          scheduled
+0007    open_small_restaurant           dreaming
+```
+
+---
+
+## `/workstation/latest_activity`
+
+```text
+$ tail -f /var/log/r1cebank/activity.log
+
+[graphics] experimenting with real-time rendering
+[physics ] comparing simulated motion against baked animation
+[ai      ] building tools that make development less painful
+[systems ] poking Windows, Linux, macOS, and everything in between
+[creative] slowly turning side quests into actual projects
+```
+
+---
+
+## `/stats/widgets`
+
+<!-- Activity graph: maintained alternative to the classic stats cards -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=r1cebank&theme=tokyo-night&hide_border=true)](https://github.com/r1cebank)
+
+<!-- GitHub trophies -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=r1cebank&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/r1cebank)
+
+---
+
+# 关于我
+
+```text
+卡利米库猫 / r1cebank
+
+软件工程师
+现居日本横滨
+```
+
+喜欢研究各种和计算机有关的东西。
+
+从 Web、云计算，到 AI、图形学、模拟器、逆向工程、FPGA，只要觉得有趣，就会认真钻进去。
+
+目前最感兴趣的方向：
+
+- 🎮 图形渲染
+- 🤖 AI / LLM
+- 🦀 Rust
+- ⚡ GPU Programming
+- 🎵 MMD 生态
+- 🧩 游戏引擎
+
+梦想成立自己的独立游戏工作室，做一些能够陪伴玩家很多年的作品。
+
+除此之外，我还喜欢：
+
+- 🍳 做饭，梦想开一家小餐馆
+- 📷 摄影
+- 🎹 钢琴
+- ✈️ 旅行
+- 🎮 收藏和折腾游戏机
+- 💙 初音未来
+
+如果你也是葱葱人，那我们应该会聊得很开心。
+
+---
+
+```bash
+$ echo "Thanks for visiting."
+
+Thanks for stopping by :)
+```

@@ -201,16 +201,6 @@ $ tail -f /var/log/r1cebank/activity.log
 
 ---
 
-## `/stats/widgets`
-
-<!-- Activity graph: maintained alternative to the classic stats cards -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=r1cebank&theme=tokyo-night&hide_border=true)](https://github.com/r1cebank)
-
-<!-- GitHub trophies -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=r1cebank&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/r1cebank)
-
----
-
 # 关于我
 
 ```text

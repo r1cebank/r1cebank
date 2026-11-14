@@ -10,7 +10,7 @@
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 
-[ OK ] Loading profile: Siyuan Gao
+[ OK ] Loading profile: kari_mikumao
 [ OK ] Location detected: Yokohama, Japan 🇯🇵
 [ OK ] Mounting /projects
 [ OK ] Initializing Rust toolchain
